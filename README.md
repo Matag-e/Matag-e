@@ -1,16 +1,24 @@
-### Hi there 👋
+## Olá me chamo Mateus Santos ✋
 
-<!--
-**Matag-e/Matag-e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no segundo semestre pela __UNINOVE__.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 __Linguagens:__ *HTML, CSS(__BootStrap__), JS(__ReactJS__), PHP, SQL, JAVA, PYTHON* e estou estudando sobre APIs,
+
+⚙️ __IDEs:__ *VSCODE, SQLDEVELOPER, MYSQL WORKBENCH, NETBEANS e Visual Studio*
+
+![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
+)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white
+)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white
+)
+
+__Contatos:__
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mateussantos212@gmail.com)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+)](linkedin.com/in/mateus-santos-73a115187/)
