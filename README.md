@@ -22,3 +22,12 @@ __Contatos:__
 )](mateussantos212@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](linkedin.com/in/mateus-santos-73a115187/)
+
+
+![Matag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matag&show_icons=true&theme=transparent)
+
+
+__Linguagens Mais Utilizadas:__
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matag-e&hide_progress=true)
+
