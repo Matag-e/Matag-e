@@ -38,9 +38,9 @@ __Contatos:__
 )](linkedin.com/in/mateus-santos-73a115187/)
 
 
-![Matag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matag&show_icons=true&theme=transparent)
+![Matag GitHub stats](https://github-readme-stats.vercel.app/api?username=Matag-e&show_icons=true&theme=transparent)
 
 
 __Linguagens Mais Utilizadas:__
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matag-E&size_weight=0.5&count_weight=0.5)
