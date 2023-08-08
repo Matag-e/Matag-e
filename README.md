@@ -39,7 +39,7 @@ Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no segundo s
 __Contatos:__
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
-)](mateussantos212@gmail.com)
+)](mailto:mateussantos212@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](linkedin.com/in/mateus-santos-73a115187/)
 ##
