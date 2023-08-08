@@ -15,6 +15,11 @@ Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no segundo s
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![PYTHON](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
+#### Frameworks:
+![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+
+![BOOSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 #### Banco de Dados:
 
@@ -30,17 +35,19 @@ Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no segundo s
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
 
 
+
 __Contatos:__
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mateussantos212@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](linkedin.com/in/mateus-santos-73a115187/)
+##
 
 
-![Matag GitHub stats](https://github-readme-stats.vercel.app/api?username=Matag-e&show_icons=true&theme=transparent)
-
-
-__Linguagens Mais Utilizadas:__
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matag-E&size_weight=0.5&count_weight=0.5)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=matag-e" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matag-e&hide_progress=true" />
+</a>
