@@ -1,6 +1,6 @@
 ## Olá me chamo Mateus Santos ✋
 
-Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no terceiro semestre pela __UNINOVE__.
+Estou cursando Técnologia em Analise e Desenvolvimento de Sistemas no quarto semestre pela __UNINOVE__.
 
 
 ### __TECNOLOGIAS:__
