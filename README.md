@@ -42,7 +42,7 @@ __Contatos:__
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:mateussantos212@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-)](linkedin.com/in/mateus-santos-73a115187/)
+)](https://linkedin.com/in/mateus-santos-73a115187/)
 ##
 
 
