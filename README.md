@@ -1,6 +1,6 @@
 # Olá, sou Mateus Santos! ✋🌟
 
-🌍 **Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas** na **UNINOVE** (quarto semestre) e apaixonado por tecnologia!
+🌍 **Formado em Tecnologia em Análise e Desenvolvimento de Sistemas**
 
 ---
 
