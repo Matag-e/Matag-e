@@ -5,13 +5,13 @@
   </p>
   
   <p>
-    <a href="https://github.com/mateussilva">
+    <a href="portifolio-lac-pi-27.vercel.app">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20Me-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/mateussilva">
+    <a href="#">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
-    <a href="mailto:seuemail@email.com">
+    <a href="mailto:mateussantos212@gmail.com">
       <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
@@ -21,9 +21,9 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou um desenvolvedor focado em criar soluções web eficientes e sistemas de gestão escaláveis. Especialista em **FastAPI** (Python) e no ecossistema **React** e **TypeScript**, atuo no desenvolvimento de aplicações full stack, entregando desde interfaces modernas e responsivas até back-ends robustos com arquitetura bem definida.
+Sou um desenvolvedor apaixonado por tecnologia, com um carinho especial pelo Front-end. Tenho me dedicado a evoluir no ecossistema **React** e **TypeScript**, buscando criar interfaces intuitivas e dinâmicas.
 
-Possuo experiência sólida com integração de bancos de dados e criação de APIs RESTful. Além das tecnologias web, tenho conhecimentos em desenvolvimento mobile com **Flutter** e estou sempre explorando novos padrões de arquitetura de software para elevar a qualidade do código e da entrega.
+Ao mesmo tempo, sigo expandindo meus horizontes no Back-end com **Python** e **Node.js**, integrando sistemas e bancos de dados para entregar soluções Full Stack. Estou em constante aprendizado, explorando também o desenvolvimento mobile com **Flutter** e novas arquiteturas, sempre em busca do próximo nível na minha jornada profissional.
 
 💡 **Interesses:** Desenvolvimento Web Full Stack, Automação, Arquitetura de Software e Sistemas de Gestão.
 
@@ -64,10 +64,10 @@ Possuo experiência sólida com integração de bancos de dados e criação de A
 
 | Projeto | Tecnologias | Descrição |
 | :--- | :--- | :--- |
-| **Estacionamento System** | `FastAPI` `Python` `SQLite` | API robusta para controle de entrada e saída de veículos, com gestão de vagas e relatórios. |
 | **ReactGram** | `React` `Node.js` `MongoDB` | Rede social inspirada no Instagram, permitindo postagem e interação com fotos. |
 | **MiniBlog** | `React` `Firebase` | Blog pessoal completo com sistema de autenticação e dashboard para gerenciamento de posts. |
 | **TMDB Movies** | `React` `API` | Aplicação que consome a API do TMDB para listar e buscar filmes populares. |
+
 
 ---
 
