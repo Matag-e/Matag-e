@@ -23,9 +23,8 @@
 
 Sou um desenvolvedor apaixonado por tecnologia, com um carinho especial pelo Front-end. Tenho me dedicado a evoluir no ecossistema **React** e **TypeScript**, buscando criar interfaces intuitivas e dinâmicas.
 
-Ao mesmo tempo, sigo expandindo meus horizontes no Back-end com **Python** e **Node.js**, integrando sistemas e bancos de dados para entregar soluções Full Stack. Estou em constante aprendizado, explorando também o desenvolvimento mobile com **Flutter** e novas arquiteturas, sempre em busca do próximo nível na minha jornada profissional.
+Ao mesmo tempo, sigo expandindo meus horizontes no Back-end com **Python** e **Node.js**, integrando sistemas e bancos de dados para entregar soluções Full Stack. Estou em constante aprendizado, explorando também novas arquiteturas, sempre em busca do próximo nível na minha jornada profissional.
 
-💡 **Interesses:** Desenvolvimento Web Full Stack, Automação, Arquitetura de Software e Sistemas de Gestão.
 
 ---
 
