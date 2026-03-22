@@ -66,6 +66,7 @@ Ao mesmo tempo, sigo expandindo meus horizontes no Back-end com **Python** e **N
 | **ReactGram** | `React` `Node.js` `MongoDB` | Rede social inspirada no Instagram, permitindo postagem e interação com fotos. |
 | **MiniBlog** | `React` `Firebase` | Blog pessoal completo com sistema de autenticação e dashboard para gerenciamento de posts. |
 | **TMDB Movies** | `React` `API` | Aplicação que consome a API do TMDB para listar e buscar filmes populares. |
+| **Nova Custom** | `FULLSTACK` | Site e-commerce para venda e personalização de camisas de time. |
 
 
 ---
